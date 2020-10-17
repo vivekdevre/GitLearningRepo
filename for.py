@@ -9,3 +9,4 @@ for i in range(10):
     print('yahoo')
 print('for loop commited')
 print('updated')
+print(';')
